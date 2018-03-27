@@ -12,7 +12,7 @@ yarn install react-path-recognizer --save
 
 ## Basic usage
 
-Import the PathRecongizer component. PathRecognizer is a container, it requires a child element to capture mouse moves. PathRecognizer do not draws the moves, for a full example with drawing, check the example/ folder of this repo.
+Import the PathRecongizer component. PathRecognizer is a container, it requires a child element to capture mouse moves. PathRecognizer does not draw the moves, for a full drawing example, check the example/ folder of this repo.
 
 ```js
 import PathRecognizer from 'react-path-recognizer'
