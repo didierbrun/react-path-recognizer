@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.zone {
+  width: 400px;
+  height: 400px;
+  background: #EEE;
+  display: inline-block;
+}
+
+.result {
+  display: inline-block;
+  vertical-align: top;
+  font-size: 240px;
+  margin: 50px;
+  color: #AAA;
+}
