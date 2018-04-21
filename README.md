@@ -148,7 +148,7 @@ For a full example, please consult the example folder of this repo.
 
 ## Free path
 
-In this sample project I've used the Graffiti alphabet for the didactic aspect. However, reac-path-recognizer is a generic algorithm, you can add any free path to control an interface / game :
+In this sample project I've used the Graffiti alphabet for the didactic aspect. However, react-path-recognizer is a generic algorithm, you can add any free path to control an interface / game :
 
 ![ScreenShot](https://raw.github.com/didierbrun/react-path-recognizer/master/assets/other_moves.gif)
 
